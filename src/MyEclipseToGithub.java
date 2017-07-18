@@ -13,9 +13,9 @@ public class MyEclipseToGithub {
 
 		Person person = new Person();
 		
-		person.name = "小狗";
-		person.age = 33;
-		person.weight = 12.5f;
+//		person.name = "小狗";
+//		person.age = 33;
+//		person.weight = 12.5f;
 		//吃饭
 		person.eat();
 		//打印年龄
